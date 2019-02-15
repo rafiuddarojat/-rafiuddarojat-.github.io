@@ -1,0 +1,13 @@
+body {background-image: url("../IMG/yellow-wallpaper3.png");}
+h1{color:  	#000066;
+	margin-left: 15px; }
+
+h2{color:	green;
+	margin-left: 15px;}
+
+#nav{	border-top: 3px dashed red;
+		border-right: 5px dotted yellow;
+		border-left: 5px dotted yellow;
+		border-bottom: 3px groove red;
+	margin: 10px 700px 15px 700px;
+	padding: 10px 10px 10px 10px}
