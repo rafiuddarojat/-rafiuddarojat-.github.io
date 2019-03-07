@@ -1,6 +1,9 @@
 body {background-image: url("bglangit.png");}
-p{font-family: 'courier new';
+p{align-items: center;
+	text-align: center;
+	font-family: 'courier new';
 	color: white;}
+a{color: white;}
 h1{color:  	#000066;
 	margin-left: 15px; }
 
